@@ -1,2 +1,2 @@
 # struums
-Guitar lesson website
+Guitar lesson website with guitar resources.
