@@ -1,0 +1,44 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body {
+  background-color: white;
+}
+header{
+  background-color: #56d9d2;
+}
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 52px;
+  color: #7a22aa;
+  text-align: center;
+}
+header img {
+  max-width: 35%;
+}
+nav {
+  background-color: #56d9d2;
+  text-align: center;
+  padding-bottom: 10px;
+}
+nav li {
+  display: inline;
+  text-align: center;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+nav a {
+    color: #7a22aa;
+  font-family: 'Fjalla One', sans-serif;
+  text-decoration: underline;
+}
+#illustration {
+  max-width: 50%;
+  display: block;
+  padding-top: 10px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
